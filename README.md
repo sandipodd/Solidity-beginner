@@ -37,8 +37,9 @@ Minting Tokens
 To mint tokens and assign them to an address, call the mint function:
 
 contractInstance.mint(recipientAddress, amountToMint);
-# License
+## Author
+ ### Sandip Thakur
+## License
 This project is licensed under the MIT License
 
-## Author
- ### Sandip Thakur 
+ 
