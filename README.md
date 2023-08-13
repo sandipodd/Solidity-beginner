@@ -38,8 +38,8 @@ To mint tokens and assign them to an address, call the mint function:
 
 contractInstance.mint(recipientAddress, amountToMint);
 ## Author
- ### Sandip Thakur
+### Sandip Thakur
 ## License
-This project is licensed under the MIT License
 
+This project is licensed under the [MIT](https://github.com/sandipodd/Solidity-beginner/tree/152e4864055842e5499a84eb8839187247ad7996)
  
